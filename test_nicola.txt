@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ciao dddd
 
 PULL request 1 add
+=======
+ciao
+
+nuovo branch 
+>>>>>>> new_branch
